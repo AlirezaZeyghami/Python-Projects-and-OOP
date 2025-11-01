@@ -1,14 +1,13 @@
 # 🧠 Object-Oriented Programming — Decorators, Class Method, Static Method & Property
 
-در این بخش یاد می‌گیریم چطور **متدهای خاص در کلاس‌ها** بنویسیم که به شیوه‌های مختلفی با داده‌ها تعامل کنن،  
-بدون این‌که نیاز باشه ساختار کلاس رو پیچیده کنیم.  
+In this section, we will learn how to write **special methods in classes** that interact with data in different ways, without having to complicate the class structure.
 
 ---
 
 ## 🔹 What Are Decorators in Classes?
 
 A **decorator** is simply a way to **modify or enhance** the behavior of a function or method — without changing its code directly.  
-در کلاس‌ها، سه نوع decorator پرکاربرد داریم:
+In classes, we have three commonly used types of decorators:
 
 1. `@classmethod`
 2. `@staticmethod`
